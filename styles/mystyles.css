@@ -70,3 +70,7 @@ body {
 .italics{
     font-style: italic;
 }
+
+.car-photos{
+    height:350px
+}
