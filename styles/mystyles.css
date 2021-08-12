@@ -1,0 +1,72 @@
+body {
+    background-image: url("../images/background_home.jpg");
+    background-color: #cccccc;
+}
+
+.homepage-bold-header {
+    font-weight: bolder;
+    font-size: 80px;
+    color:aliceblue;
+}
+
+
+.homepage-bold {
+    font-weight: bolder;
+    font-size: 80px;
+    color:black;
+}
+
+.resume-header{
+    font-weight: 900;
+    color:black;
+    font-size: 70px;
+}
+
+.custom-link {
+    color: black;
+}
+
+.nav-btn{
+    font-size: 30px;
+}
+
+.interlink{
+    font-size: 30px;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.interlink-down{
+    font-size: 15px;
+    font-weight: 200;
+    color:black;
+    text-decoration: underline;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.link-text{
+    color:black;
+}
+
+.profile-pic{
+    height:300px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.body-text-size{
+    font-size:18px;
+}
+
+.email-link{
+    color:black
+}
+
+.italics{
+    font-style: italic;
+}
