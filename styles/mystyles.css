@@ -3,6 +3,10 @@ body {
     background-color: #cccccc;
 }
 
+.right-text{
+    text-align: right;
+}
+
 .homepage-bold-header {
     font-weight: bolder;
     font-size: 80px;
